@@ -1,9 +1,9 @@
 <?php
   //  Declare database credentials
   $servername = "localhost";
-  $username = "peel_appeal_user";
-  $password = "password";
-  $dbname = "peel_appeal";
+  $username = "root";
+  $password = "";
+  $dbname = "bloodvaultdb";
 
   // Create connection
   $conn = new mysqli($servername, $username, $password, $dbname);
@@ -14,6 +14,4 @@
   }
 
   return $conn;
-
-?>
 
