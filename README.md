@@ -50,6 +50,8 @@ Update the database connection settings in the connect_to_db.php file.
 Place the project folder in the htdocs directory of your XAMPP installation.
 Open a browser and navigate to http://localhost/BloodBank
 
+## Usage
+
 **Home Page**
 The Home Page serves as the entry point to the system with links to register as a donor, login, and access the admin and hospital dashboards.
 
